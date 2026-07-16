@@ -9,6 +9,6 @@ ${\textsf{\color{#FEFFF1}𝕬𝖓𝖉 𝕴'𝖒𝖆 𝖙𝖍𝖗𝖔𝖜 𝖙�
 <img width="840" height="230" alt="Screenshot 2026-07-16 6 38 25 AM" src="https://github.com/user-attachments/assets/3124a081-8f96-4d02-a8fa-88f9ea9671d0" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=th-vm&color=fefff1&style=for-the-badge&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=th-vm&color=060A0D&style=for-the-badge&abbreviated=true)
 
 wip !!
