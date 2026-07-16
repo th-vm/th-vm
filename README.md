@@ -15,11 +15,10 @@ wip !!
 <div></div>
 
 -----------------------------
-
-I am still trying to figure this out, so until then go check out my
-main profile, and sign my ata ok?
-
-${\textsf{\color{#FEFFF1}"𝕶𝖎𝖘𝖘 𝖒𝖊 𝖑𝖎𝖐𝖊 𝖞𝖔𝖚 𝖒𝖊𝖆𝖓 𝖎𝖙."}}$
+<p align="left">I am still trying to figure this out, so until then go check out my
+main profile, and sign my ata ok? 
+ 
+  ${\textsf{\color{#FEFFF1}"𝕶𝖎𝖘𝖘 𝖒𝖊 𝖑𝖎𝖐𝖊 𝖞𝖔𝖚 𝖒𝖊𝖆𝖓 𝖎𝖙."}}$</p>
 <p align="right">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=fefff1">
