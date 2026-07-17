@@ -6,7 +6,7 @@ ${\textsf{\color{#FFFFFF}"𝕬𝖓𝖉 𝕴'𝖒𝖆 𝖙𝖍𝖗𝖔𝖜 𝖙�
 <div align=center">
 
 <p align="center">
-<img width="331" height="118" alt="Screenshot 2026-07-16 11 46 28 PM" src="https://github.com/user-attachments/assets/f276860e-377b-486f-af41-2553100d0c8c" />
+<img width="1155" height="370" alt="image" src="https://github.com/user-attachments/assets/090cc824-9d53-42a9-b7a2-9db439539010" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=th-vm&color=060A0D&style=for-the-badge&abbreviated=true)
