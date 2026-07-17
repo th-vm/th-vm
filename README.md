@@ -11,7 +11,7 @@ ${\textsf{\color{#FFFFFF}"𝕬𝖓𝖉 𝕴'𝖒𝖆 𝖙𝖍𝖗𝖔𝖜 𝖙�
 
 ![](https://komarev.com/ghpvc/?username=th-vm&color=060A0D&style=for-the-badge&abbreviated=true)
 
-wip / sign my ata.
+wip / sign ata + check out my straw.
 <div></div>
  
 <p align="right">
